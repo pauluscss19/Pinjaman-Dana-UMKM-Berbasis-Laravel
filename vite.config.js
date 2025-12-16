@@ -6,7 +6,7 @@ export default defineConfig({
         laravel({
             input: [
                 'resources/css/app.css', // default
-                'resources/css/home.css', // tambahkan ini
+                 // tambahkan ini
                 'resources/js/app.js',
             ],
             refresh: true,
